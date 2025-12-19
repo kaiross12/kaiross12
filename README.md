@@ -31,7 +31,7 @@
 ### 🗣️ Contact With Me
 
 <a href="https://discord.com/users/kairosss.">
-  <img src="https://img.shields.io/badge/ -akairosss.-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord Badge"/>
+  <img src="https://img.shields.io/badge/ -kairosss.-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord Badge"/>
 </a>
 
 ---
