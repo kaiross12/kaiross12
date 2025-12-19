@@ -29,11 +29,11 @@
 </div>
 
 ### 🗣️ Contact With Me
-<div align="start">
+<div align="center">
   <img src="https://github.com/user-attachments/assets/1e6be5fe-8679-4a87-a154-a3d0045579ff" width="400">
 </div>
 
-<div align="start">
+<div align="center">
 
   <a href="https://discord.com/users/kairosss." target="_blank">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white" alt="Discord" />
