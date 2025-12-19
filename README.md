@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/05ad4a79-012a-41a4-99fb-33dcdeee6b70" />
+  <img width="1920" height="600" alt="Image" src="https://github.com/user-attachments/assets/d6959581-061f-44cf-8317-fda28bcb4757" />
 
   <h1>Selamlar, ben [Adın]! 👋</h1>
   
