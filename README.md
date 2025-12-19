@@ -18,9 +18,9 @@
 <div align="center">
 
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,vue,java,windows,c#)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=vite,nodejs)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=vite,nodejs,arduino)](https://skillicons.dev)
   <br/>
-  [![My Skills](https://skillicons.dev/icons?i=blender,aftereffects,photoshop,illustrator,pr,visualstudio,vscode)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=blender,aftereffects,photoshop,illustrator,pr,visualstudio,vscode,flutter)](https://skillicons.dev)
 
 </div>
 
