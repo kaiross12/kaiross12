@@ -2,12 +2,11 @@
 
   <img width="1920" height="600" alt="Image" src="https://github.com/user-attachments/assets/d6959581-061f-44cf-8317-fda28bcb4757" />
 
-  <h1>Selamlar, ben [Adın]! 👋</h1>
+  <h1>Hey there! 👋</h1>
   
   <p>
-    Buraya kendinle ilgili kısa, ilgi çekici bir paragraf yazabilirsin. 
-    Örneğin: "Yazılım geliştirme tutkusu olan bir lise öğrencisiyim. 
-    Web teknolojileri ve yapay zeka üzerine projeler geliştiriyorum."
+    I go by the name Kairos. I am a 17-year-old developer and graphic designer with a passion for building things. My main interests lie in robotics, electronics, and web development.
+    I am a social person who loves meeting new people and collaborating on exciting ideas. Bringing projects to life and creating tangible products is what I enjoy most. For more details and to get in touch, feel free to check out the links below
   </p>
 
 </div>
