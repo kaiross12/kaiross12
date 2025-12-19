@@ -20,7 +20,7 @@
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,vue,java,windows,c#)](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=vite)](https://skillicons.dev)
   <br/>
-  [![My Skills](https://skillicons.dev/icons?i=blender,aftereffects,photoshop,illustrator,premierpro)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=blender,aftereffects,photoshop,illustrator,premierpro,visualstudio)](https://skillicons.dev)
 
 </div>
 
