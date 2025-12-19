@@ -7,25 +7,6 @@
   <p>
     I go by the name Kairos. I am a 17-year-old developer and graphic designer with a passion for building things. My main interests lie in robotics, electronics, and web development.
     I am a social person who loves meeting new people and collaborating on exciting ideas. Bringing projects to life and creating tangible products is what I enjoy most. For more details and to get in touch, feel free to check out the links below.
-    <div align="center">
-
-  <a href="https://discord.com/users/SENIN_DISCORD_ID_NUMARAN" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-
-  <a href="https://instagram.com/KULLANICI_ADIN" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/KULLANICI_ADIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-
-  <a href="mailto:seninmailadresin@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-
-</div>
   </p>
 
 </div>
@@ -49,7 +30,25 @@
 
 ### 🗣️ Contact With Me
 
+<div align="center">
 
+  <a href="https://discord.com/users/SENIN_DISCORD_ID_NUMARAN" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+
+  <a href="https://instagram.com/KULLANICI_ADIN" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/KULLANICI_ADIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="mailto:seninmailadresin@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+
+</div>
 
 ---
 
