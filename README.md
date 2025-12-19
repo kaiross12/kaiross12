@@ -35,7 +35,7 @@
 </a>
 
 <a href="https://www.instagram.com/kairos.graphics/">
-  <img src="https://img.shields.io/badge/ -kairos.graphics-BF00A9?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  <img src="https://img.shields.io/badge/ -kairos.graphics-DD2A7B?style=flat&logo=instagram&logoColor=F58529" alt="Instagram Badge"/>
 </a>
 
 ---
