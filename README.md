@@ -15,7 +15,7 @@
 
 ### 🛠️ My Arsenal
 
-<div align="start">
+<div align="center">
 
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,vue,java,windows,cs)](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=vite,nodejs,arduino)](https://skillicons.dev)
@@ -29,7 +29,7 @@
 </div>
 
 ### 🗣️ Contact With Me
-<div align="center">
+<div align="start">
   <img src="https://github.com/user-attachments/assets/1e6be5fe-8679-4a87-a154-a3d0045579ff" width="400">
 </div>
 
