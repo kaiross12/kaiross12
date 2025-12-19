@@ -33,6 +33,9 @@
 <a href="https://discord.com/users/kairosss.">
   <img src="https://img.shields.io/badge/ -kairosss.-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord Badge"/>
 </a>
+<a href="https://www.instagram.com/kairos.graphics/">
+  <img src="https://img.shields.io/badge/ -kairos.graphics.-5865F2?style=flat&logo=instagram&logoColor=purple" alt="Instagram Badge"/>
+</a>
 
 ---
 
