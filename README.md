@@ -6,7 +6,7 @@
   
   <p>
     I go by the name Kairos. I am a 17-year-old developer and graphic designer with a passion for building things. My main interests lie in robotics, electronics, and web development.
-    I am a social person who loves meeting new people and collaborating on exciting ideas. Bringing projects to life and creating tangible products is what I enjoy most. For more details and to get in touch, feel free to check out the links below
+    I am a social person who loves meeting new people and collaborating on exciting ideas. Bringing projects to life and creating tangible products is what I enjoy most. For more details and to get in touch, feel free to check out the links below.
   </p>
 
 </div>
