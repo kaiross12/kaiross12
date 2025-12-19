@@ -28,7 +28,8 @@
   <img src="https://img.shields.io/badge/Arabic-C1-purple?style=flat-square" />
 </div>
 
-### 🗣️ Konuştuğum Diller
+### 🗣️ Contact With Me
+#Click to copy
 
 <img src="https://img.shields.io/badge/Türkçe-Ana%20Dil-red?style=flat-square" />
 <img src="https://img.shields.io/badge/İngilizce-B1-blue?style=flat-square" />
