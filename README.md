@@ -25,6 +25,7 @@
   
   <img src="https://img.shields.io/badge/Turkish-Native%20Language-red?style=flat-square" />
   <img src="https://img.shields.io/badge/English-C1-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Arabic-C1-green?style=flat-square" />
 </div>
 
 ### 🗣️ Konuştuğum Diller
