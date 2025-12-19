@@ -1,100 +1,84 @@
-<svg width="100%" height="100%" viewBox="0 0 600 300" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="100%" viewBox="0 0 400 100" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-
     <style>
-      /* Topun Hareketi */
-      @keyframes ballMoveX {
-        0%, 100% { transform: translateX(30px); }
-        50% { transform: translateX(550px); }
-      }
-      @keyframes ballMoveY {
-        0% { transform: translateY(50px); }
-        25% { transform: translateY(250px); }
-        50% { transform: translateY(100px); }
-        75% { transform: translateY(280px); }
-        100% { transform: translateY(50px); }
+      /* Gemi Hareketi */
+      @keyframes shipMove {
+        0% { transform: translateX(50px); }
+        25% { transform: translateX(150px); }
+        50% { transform: translateX(300px); }
+        75% { transform: translateX(100px); }
+        100% { transform: translateX(50px); }
       }
 
-      /* Sol Raket Yapay Zekası */
-      @keyframes paddleLeft {
-        0% { y: 20; }
-        20% { y: 200; }
-        40% { y: 50; }
-        60% { y: 150; }
-        80% { y: 220; }
-        100% { y: 20; }
+      /* Lazer Atışı */
+      @keyframes laserFire {
+        0% { transform: translateY(0); opacity: 1; }
+        10% { opacity: 1; }
+        40% { transform: translateY(-90px); opacity: 0; }
+        100% { transform: translateY(-90px); opacity: 0; }
       }
 
-      /* Sağ Raket Yapay Zekası */
-      @keyframes paddleRight {
-        0% { y: 100; }
-        25% { y: 220; }
-        50% { y: 50; }
-        75% { y: 240; }
-        100% { y: 100; }
+      /* Düşman Patlaması (Yanıp Sönme) */
+      @keyframes enemyHit {
+        0%, 35% { opacity: 1; fill: #ff3860; }
+        36%, 38% { opacity: 0; } /* Vurulma anı */
+        39%, 45% { opacity: 1; fill: #ffffff; } /* Patlama efekti */
+        46% { opacity: 1; fill: #ff3860; }
+        100% { opacity: 1; fill: #ff3860; }
+      }
+      
+      /* Yıldız Kayması */
+      @keyframes starScroll {
+        from { transform: translateY(0); }
+        to { transform: translateY(100px); }
       }
 
-      /* Skor Yanıp Sönme */
-      @keyframes scorePulse {
-        0%, 100% { opacity: 0.5; }
-        50% { opacity: 1; }
+      .ship-container {
+        animation: shipMove 4s ease-in-out infinite;
       }
-
-      .ball-wrapper {
-        animation: ballMoveX 4s linear infinite;
+      
+      .laser {
+        fill: #00ffff;
+        animation: laserFire 0.8s infinite linear;
       }
-      .ball {
-        animation: ballMoveY 3s ease-in-out infinite alternate;
-        fill: #00ffcc;
-        filter: url(#glow);
-      }
-      .paddle-left {
-        animation: paddleLeft 5s ease-in-out infinite;
-        fill: #ff00ff;
-        filter: url(#glow);
-      }
-      .paddle-right {
-        animation: paddleRight 4s ease-in-out infinite;
-        fill: #00ccff;
-        filter: url(#glow);
-      }
-      .net {
-        stroke: #30363d;
-        stroke-dasharray: 10;
-        stroke-width: 2;
-      }
-      .score {
-        font-family: 'Courier New', monospace;
-        font-size: 60px;
-        fill: #30363d;
-        font-weight: bold;
-        opacity: 0.5;
-        animation: scorePulse 2s infinite;
+      
+      .enemy-1 { animation: enemyHit 4s infinite; animation-delay: 0.5s; }
+      .enemy-2 { animation: enemyHit 4s infinite; animation-delay: 2.0s; }
+      .enemy-3 { animation: enemyHit 4s infinite; animation-delay: 3.2s; }
+      
+      .stars {
+        fill: #ffffff;
+        opacity: 0.3;
+        animation: starScroll 3s linear infinite;
       }
     </style>
   </defs>
 
-  <rect width="600" height="300" fill="#0d1117" rx="10" />
+  <rect width="400" height="100" fill="#0d1117" rx="5" />
   
-  <line x1="300" y1="10" x2="300" y2="290" class="net" />
-  <rect x="0" y="0" width="600" height="300" fill="none" stroke="#30363d" stroke-width="4" rx="10" />
-
-  <text x="250" y="80" text-anchor="middle" class="score">4</text>
-  <text x="350" y="80" text-anchor="middle" class="score">2</text>
-
-  <rect x="10" y="100" width="10" height="60" class="paddle-left" rx="4" />
-  <rect x="580" y="100" width="10" height="60" class="paddle-right" rx="4" />
-
-  <g class="ball-wrapper">
-    <circle cx="0" cy="0" r="8" class="ball" />
+  <g class="stars">
+    <circle cx="50" cy="10" r="1"/> <circle cx="150" cy="40" r="1"/>
+    <circle cx="300" cy="20" r="1"/> <circle cx="350" cy="80" r="1"/>
+    <circle cx="20" cy="90" r="1"/> <circle cx="250" cy="50" r="1"/>
+  </g>
+  <g class="stars" transform="translate(0, -100)">
+    <circle cx="80" cy="10" r="1"/> <circle cx="200" cy="60" r="1"/>
+    <circle cx="100" cy="30" r="1"/>
   </g>
 
-  <text x="580" y="285" text-anchor="end" font-family="sans-serif" font-size="10" fill="#30363d">KAIROS GAME ENGINE</text>
+  <g transform="translate(0, 20)">
+    <path class="enemy-1" d="M95 0 h10 v5 h5 v5 h-5 v5 h-10 v-5 h-5 v-5 h5 z" fill="#ff3860" />
+    <path class="enemy-2" d="M195 0 h10 v5 h5 v5 h-5 v5 h-10 v-5 h-5 v-5 h5 z" fill="#ff3860" />
+    <path class="enemy-3" d="M345 0 h10 v5 h5 v5 h-5 v5 h-10 v-5 h-5 v-5 h5 z" fill="#ff3860" />
+  </g>
+
+  <g class="ship-container">
+    <path d="M0 90 h10 v-5 h5 v-5 h-5 v5 h-10 v-5 h-5 v5 h5 z" fill="#00e676" transform="translate(-5, 0)" />
+    
+    <rect x="-1" y="80" width="2" height="6" class="laser" />
+  </g>
+
+  <text x="390" y="90" text-anchor="end" font-family="'Courier New', monospace" font-size="10" fill="#ffffff" opacity="0.6">SCORE: 8086</text>
+  <text x="10" y="90" text-anchor="start" font-family="'Courier New', monospace" font-size="10" fill="#ffffff" opacity="0.6">LVL: 17</text>
+
 </svg>
