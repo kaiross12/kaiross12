@@ -30,7 +30,7 @@
 
 ### 🗣️ Contact With Me
 <div align="center">
-  <img src="https://github.com/user/repo/assets/12345678/abcd-efgh.gif" width="400">
+  <img src="https://github.com/user-attachments/assets/7167e4bd-7e74-46b2-a0f9-a1883e7ad7d0" width="400">
 </div>
 
 <div align="center">
