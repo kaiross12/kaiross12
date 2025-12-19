@@ -23,8 +23,8 @@
   [![My Skills](https://skillicons.dev/icons?i=blender,aftereffects,photoshop,illustrator,pr,visualstudio,vscode,flutter,robloxstudio)](https://skillicons.dev)
   <br/>
   
-  <img src="https://img.shields.io/badge/Türkçe-Ana%20Dil-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/İngilizce-B1-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Turkish-Native%20Language-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/English-C1-blue?style=flat-square" />
 </div>
 
 ### 🗣️ Konuştuğum Diller
