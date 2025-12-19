@@ -32,19 +32,19 @@
 
 <div align="center">
 
-  <a href="https://discord.com/users/SENIN_DISCORD_ID_NUMARAN" target="_blank">
+  <a href="https://discord.com/users/kairosss." target="_blank">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white" alt="Discord" />
   </a>
 
-  <a href="https://instagram.com/KULLANICI_ADIN" target="_blank">
+  <a href="https://instagram.com/kairos.graphics" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
 
-  <a href="https://www.linkedin.com/in/KULLANICI_ADIN" target="_blank">
+  <a href="https://www.linkedin.com/in/yaser-durubi-1a5a55314/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
-  <a href="mailto:seninmailadresin@gmail.com">
+  <a href="mailto:yaserdurubi1209@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 
