@@ -30,7 +30,7 @@
 
 ### 🗣️ Contact With Me
 <div align="center">
-  <img src="./deneme.svg" width="70%" />
+  ![Image](https://github.com/user-attachments/assets/7167e4bd-7e74-46b2-a0f9-a1883e7ad7d0)
 </div>
 
 <div align="center">
