@@ -24,7 +24,7 @@
   <br/>
   
   <img src="https://img.shields.io/badge/Turkish-Native%20Language-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/English-C1-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/English-C1-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Arabic-C1-purple?style=flat-square" />
 </div>
 
