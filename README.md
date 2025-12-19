@@ -39,6 +39,10 @@
   <img src="https://img.shields.io/badge/ -kairos.graphics-DD2A7B?style=flat&logo=instagram&logoColor=F58529" alt="Instagram Badge"/>
 </a>
 
+<a href="https://www.instagram.com/kairos.graphics/">
+  <img src="https://img.shields.io/badge/ -Yaser Durubi-00A0DC?style=flat&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
+</a>
+
 ---
 
 ### 📊 GitHub İstatistiklerim
