@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Banner GIF" />
+  <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/05ad4a79-012a-41a4-99fb-33dcdeee6b70" />
 
   <h1>Selamlar, ben [Adın]! 👋</h1>
   
