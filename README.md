@@ -29,10 +29,10 @@
 </div>
 
 ### 🗣️ Contact With Me
-#Click to copy
 
-<img src="https://img.shields.io/badge/Türkçe-Ana%20Dil-red?style=flat-square" />
-<img src="https://img.shields.io/badge/İngilizce-B1-blue?style=flat-square" />
+<a href="https://discord.com/users/kairosss.">
+  <img src="https://img.shields.io/badge/Discord-KullanıcıAdın-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord Badge"/>
+</a>
 
 ---
 
