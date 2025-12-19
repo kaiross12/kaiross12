@@ -52,14 +52,14 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=SENIN_KULLANICI_ADIN&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180px" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kaiross012&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180px" alt="GitHub Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SENIN_KULLANICI_ADIN&layout=compact&theme=tokyonight&hide_border=true" height="180px" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiross012&layout=compact&theme=tokyonight&hide_border=true" height="180px" alt="Top Langs" />
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SENIN_KULLANICI_ADIN&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kaiross012&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
