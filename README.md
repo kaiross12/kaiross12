@@ -18,10 +18,7 @@
 <div align="center">
 
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,vue,java,windows,c#)](https://skillicons.dev)
-  
-
   <br/>
-
   [![My Skills](https://skillicons.dev/icons?i=yolo,aftereffects,photoshop,illustrator,premierpro)](https://skillicons.dev)
 
 </div>
