@@ -13,7 +13,7 @@
 
 ---
 
-### 🛠️ Diller ve Teknolojiler
+### 🛠️ My Most Used Apps/Languages
 
 <div align="center">
 
