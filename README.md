@@ -30,7 +30,7 @@
 
 ### 🗣️ Contact With Me
 <div align="center">
-  <img src="./shooter.svg" width="70%" />
+  <img src="./shooterr.svg" width="70%" />
 </div>
 
 <div align="center">
