@@ -18,14 +18,11 @@
 <div align="center">
 
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,vue,java,windows,c#)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=yolo,aftereffects,photoshop,illustrator,premierpro)](https://skillicons.dev)
   
 
   <br/>
 
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  [![My Skills](https://skillicons.dev/icons?i=yolo,aftereffects,photoshop,illustrator,premierpro)](https://skillicons.dev)
 
 </div>
 
