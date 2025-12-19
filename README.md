@@ -13,7 +13,7 @@
 
 ---
 
-### 🛠️ My Most Used Apps/Languages
+### 🛠️ My Arsenal
 
 <div align="center">
 
