@@ -59,9 +59,9 @@
 
 <div align="center">
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=kairos12&show_icons=true&theme=tokyonight&hide_border=true&locale=tr" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=kaiross12&show_icons=true&theme=tokyonight&hide_border=true&locale=tr" alt="GitHub Stats" />
   </p>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kairos12&layout=compact&theme=tokyonight&hide_border=true&locale=tr" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiross12&layout=compact&theme=tokyonight&hide_border=true&locale=tr" alt="Top Languages" />
   </p>
 </div>
